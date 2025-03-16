@@ -1,4 +1,4 @@
-class sparseMatrix{
+class SparseMatrix{
     public static void main(String[] args) {
         int[][] arr ={{0,0,1,0,9},{10,0,0,2,5},{0,0,0,23,41}};
         int[] row= new int[7]; //total no of elemets in arr - occurance of 0
@@ -17,11 +17,8 @@ class sparseMatrix{
             }
         }
         System.out.println("Row"+ "\t" + "Col"+ "\t" + "value");
-    for(int z=0; z<row.length; z++){
-        System.out.println(row[z]+ "\t" + col[z]+ "\t" + value[z]);
-    }
-    
-    
-    
+        for(int z=0; z<row.length; z++){
+            System.out.println(row[z]+ "\t" + col[z]+ "\t" + value[z]);
+        }
     }
 }
