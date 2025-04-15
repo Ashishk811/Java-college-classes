@@ -1,0 +1,7 @@
+1. WAP to find out the largest element in an array using method.
+2. WAP to find out the second largest element in an array using method.
+3. WAP addition of two 2D-matrix.
+4. WAP multiplication of two matrix.
+5. WAP transpose of a matrix.
+6. An integer 'n' is divisible by 9, if the sum of its digits is divisible by 9. Develop a programme to display each digit starting with right-most digit. Your programme should also determine whether or not the no is divisible by 9.
+   where  
